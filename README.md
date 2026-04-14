@@ -31,7 +31,7 @@ To run the analysis, you need:
 - Matplotlib
 
 ## How to Run
-1. Ensure `hollins.dat` is in the project directory.
+1. Ensure `hollins.dat` is in the project/data directory.
 2. Run the script:
    ```bash
-   python PageRank_HafezparastMavadat_RahbariZideh_ex11_ex14.py
+   python pagerank-convergence-analysis.py
